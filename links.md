@@ -11,3 +11,4 @@
 * Chainpoint FAQ - [https://tnt.tl/tnt_chnpt_faq](https://tnt.tl/tnt_chnpt_faq)
 * Tierion Jobs - [https://tnt.tl/tnt_jobs](https://tnt.tl/tnt_jobs)
 * Whitepaper - [https://tnt.tl/tnt_wp](https://tnt.tl/tnt_wp)
+* TNT Smart Contract - [https://tnt.tl/tnt_contract](https://tnt.tl/tnt_contract)
