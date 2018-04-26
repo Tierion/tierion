@@ -49,7 +49,7 @@
 
 ## Whitepaper 
 
-- https://tnt.tl/whitepaper](https://tnt.tl/whitepaper)
+- [https://tnt.tl/whitepaper](https://tnt.tl/whitepaper)
 - [https://tnt.tl/tnt_wp](https://tnt.tl/tnt_wp)
 
 ## TNT Smart Contract 
