@@ -1,5 +1,5 @@
 # Tierion
-This is a repository hosts public information about Tierion.
+This repository hosts public information about Tierion.
 
 # Table of Contents
 ## [Links](https://github.com/Tierion/tierion/blob/master/links.md)
