@@ -1,4 +1,4 @@
-# Tierion Approved Short Links
+# Tierion Approved Links
 
 ## Telegram
 
