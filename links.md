@@ -1,6 +1,6 @@
 # Tierion Approved Short Links
 
-* Telegram
+## Telegram
 
 - [https://tnt.tl/telegram](https://tnt.tl/telegram)
 - Group: [https://tnt.tl/tnt_telgrp](https://tnt.tl/tnt_telgrp)
